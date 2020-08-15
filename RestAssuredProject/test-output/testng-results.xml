@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-14T17:36:32 PDT" name="Default suite" finished-at="2020-08-14T17:36:36 PDT" duration-ms="4117">
+    <groups>
+    </groups>
+    <test started-at="2020-08-14T17:36:32 PDT" name="Default test" finished-at="2020-08-14T17:36:36 PDT" duration-ms="4117">
+      <class name="DemoProject.GET_Country_Name">
+        <test-method signature="getCountryName_InputValidFullCountryName_ReturnSuccessResponse()[pri:0, instance:DemoProject.GET_Country_Name@124c278f]" started-at="2020-08-14T17:36:32 PDT" name="getCountryName_InputValidFullCountryName_ReturnSuccessResponse" finished-at="2020-08-14T17:36:35 PDT" duration-ms="3099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCountryName_InputValidFullCountryName_ReturnSuccessResponse -->
+      </class> <!-- DemoProject.GET_Country_Name -->
+      <class name="DemoProject.GET_Partial_Country_Name">
+        <test-method signature="getCountryName_InputValidPartialCountryName_ReturnSuccessResponse()[pri:0, instance:DemoProject.GET_Partial_Country_Name@15b204a1]" started-at="2020-08-14T17:36:35 PDT" name="getCountryName_InputValidPartialCountryName_ReturnSuccessResponse" finished-at="2020-08-14T17:36:36 PDT" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCountryName_InputValidPartialCountryName_ReturnSuccessResponse -->
+      </class> <!-- DemoProject.GET_Partial_Country_Name -->
+      <class name="DemoProject.GET_Code_Aplha2">
+        <test-method signature="getCountryName_InputValid2LetterCode_ReturnSuccessResponse()[pri:0, instance:DemoProject.GET_Code_Aplha2@77167fb7]" started-at="2020-08-14T17:36:36 PDT" name="getCountryName_InputValid2LetterCode_ReturnSuccessResponse" finished-at="2020-08-14T17:36:36 PDT" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCountryName_InputValid2LetterCode_ReturnSuccessResponse -->
+      </class> <!-- DemoProject.GET_Code_Aplha2 -->
+      <class name="DemoProject.GET_Native_Name">
+        <test-method signature="getCountryName_InputValidFullNativeName_ReturnSuccessResponse()[pri:0, instance:DemoProject.GET_Native_Name@6ce139a4]" started-at="2020-08-14T17:36:36 PDT" name="getCountryName_InputValidFullNativeName_ReturnSuccessResponse" finished-at="2020-08-14T17:36:36 PDT" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCountryName_InputValidFullNativeName_ReturnSuccessResponse -->
+      </class> <!-- DemoProject.GET_Native_Name -->
+      <class name="DemoProject.GET_Code_Aplha3">
+        <test-method signature="getCountryName_InputValid2LetterCode_ReturnSuccessResponse()[pri:0, instance:DemoProject.GET_Code_Aplha3@1fe20588]" started-at="2020-08-14T17:36:36 PDT" name="getCountryName_InputValid2LetterCode_ReturnSuccessResponse" finished-at="2020-08-14T17:36:36 PDT" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCountryName_InputValid2LetterCode_ReturnSuccessResponse -->
+      </class> <!-- DemoProject.GET_Code_Aplha3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
